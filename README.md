@@ -1,1 +1,1 @@
-# projekty_wsp-lne
+# projekty_wspolne
